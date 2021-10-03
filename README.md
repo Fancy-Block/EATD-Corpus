@@ -1,5 +1,10 @@
 ## EATD-Corpus
-EATD-Corpus is a dataset consist of audio and text files of 162 volunteers who received counseling.
+The EATD-Corpus is a dataset consist of audio and text files of 162 volunteers who received counseling.
+
+
+### Download
+The EATD-Corpus can be downloaded at https://pan.baidu.com/s/1dIZBRZxLaFjLEsis47b7ag with extraction code 2022.
+
 
 ### How to use
 
