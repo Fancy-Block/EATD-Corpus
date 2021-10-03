@@ -4,9 +4,9 @@ The EATD-Corpus is a dataset consist of audio and text files of 162 volunteers w
 
 ### How to use
 
-Training set contains data from 83 volunteers (xx depressed and xx non-depressed).
+Training set contains data from 83 volunteers (19 depressed and 64 non-depressed).
 
-Validation set contains data from 79 volunteers (xx depressed and xx non-depressed).
+Validation set contains data from 79 volunteers (11 depressed and 68 non-depressed).
 
 Each folder contains depression data for one volunteer.
 
